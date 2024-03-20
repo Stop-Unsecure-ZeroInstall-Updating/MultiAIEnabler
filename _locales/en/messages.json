@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "ChatHub - All-in-one chatbot client"
+    "message": "Only input one question, Many answers provided from Multi AI - Multi Ai Answer"
   },
   "appDesc": {
-    "message": "Use ChatGPT, Bing, Bard, Claude and more chatbots simultaneously"
+    "message": "They will answer at the same time (depends on your payment for them): ChatGPT(GPT4, GPT3Turbo, Copilot(GTP4, GTP3Turbo), Gemini(Gemini Ultra, Gemini Pro), Claude(Claude3 Opus, Claude3 Sonnet)"
   }
 }
