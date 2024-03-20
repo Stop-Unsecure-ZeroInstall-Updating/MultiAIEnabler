@@ -1,8 +1,8 @@
 {
   "appName": {
-    "message": "ChatHub - オールインワンチャットボットクライアント"
+    "message": "一度の質問に、複数の AI が返信 -マルチ AI アンサー"
   },
   "appDesc": {
-    "message": "ChatGPT、Bing、Bard、およびClaudeを一つのプラットフォームで使用します"
+    "message": "現在、次の AI から選べます（有料版、無料版)：ChatGPT(GPT4, GPT3.5Turbo)、Copilot(GPT4)、Gemini(Gemini Ultra, Gemini Pro)、Claude3(Claude3 Opus, Claude3 Sonnet) "
   }
 }
