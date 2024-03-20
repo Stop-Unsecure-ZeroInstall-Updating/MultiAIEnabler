@@ -6,21 +6,23 @@
 
 <div align="center">
 
-### ChatHub はオールインワンのチャットボットクライアントです
+### Multi AI Enabler は、あなたの1つのご質問に、いくつもの AI がお答えします。
+### ___それぞれの AI のバージョンは、あなたが普段から、その AI を有料でお使いかどうかで変わることがあります___
 
 [![author][author-image]][author-url]
 [![license][license-image]][license-url]
 [![release][release-image]][release-url]
 [![last commit][last-commit-image]][last-commit-url]    
     
-[English](README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Indonesia](README_IN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [简体中文](README_ZH-CN.md) &nbsp;&nbsp;|&nbsp;&nbsp; [繁體中文](README_ZH-TW.md) &nbsp;&nbsp;|&nbsp;&nbsp; 日本語
+[English](README.md) &nbsp;&nbsp;|&nbsp;&nbsp; &nbsp;&nbsp;|&nbsp;&nbsp; 日本語
 
 ##    
     
-### インストール
+### インストールする手順
     
-<a href="https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=github"><img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="Chromium 用の ChatHub を入手してください"></a>
-<a href="https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=github"><img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="Microsoft Edge 用の ChatHub を入手してください"></a>
+<a href="https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma?utm_source=github"><img src="https://user-images.githubusercontent.com/64502893/231991498-8df6dd63-727c-41d0-916f-c90c15127de3.png" width="200" alt="Google Chrome 用の拡張機能を入手してくだい。 ("></a>
+<a href="https://microsoftedge.microsoft.com/addons/detail/chathub-allinone-chat/kdlmggoacmfoombiokflpeompajfljga?utm_source=github"><img src="https://user-images.githubusercontent.com/64502893/231991158-1b54f831-2fdc-43b6-bf9a-f894000e5aa8.png" width="160" alt="Microsoft Edge 用の拡張機能を入手してください"></a>
+ご注意：他の Chromium ベースのブラウザーは、大変恐れ入りますが、サポート外とさせていただきます。
     
 ##
 
@@ -62,8 +64,8 @@
 ## 🤖 サポートされているボット
 
 * ChatGPT（Web アプリ/API/Azure/Poe経由）
-* Bing Chat
-* Google Bard
+* Microsoft Copilot
+* Google Gemini
 * Claude（Poe 経由）
 * iFlytek Spark
 * ChatGLM
